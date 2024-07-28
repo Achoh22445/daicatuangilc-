@@ -60,19 +60,23 @@
     </div>
     <div class="content">
         <div class="book">
-            <img src="https://via.placeholder.com/400x300" alt="Book Image 1">
+            <img src="https://via.placeholder.com/400x300" alt="Book ![image](https://github.com/user-attachments/assets/92394807-5bdf-4de3-bb21-e8d0aa379582)
+>
             <p class="quote">"Một cuốn sách hay là một người bạn tốt." - Voltaire</p>
         </div>
         <div class="book">
-            <img src="https://via.placeholder.com/400x300" alt="Book Image 2">
+            <img src="https://via.placeholder.com/400x300" alt="Book ![image](https://github.com/user-attachments/assets/62f37fca-c3ba-477d-a187-f16f4f30a0e9)
+">
             <p class="quote">"Đọc sách không chỉ là để biết, mà còn để suy nghĩ." - Francis Bacon</p>
         </div>
         <div class="book">
-            <img src="https://via.placeholder.com/400x300" alt="Book Image 3">
+            <img src="https://via.placeholder.com/400x300" alt="Book ![image](https://github.com/user-attachments/assets/db5564fc-6ae7-4517-b338-3105ffce1c14)
+">
             <p class="quote">"Sách là ánh sáng dẫn đường trong bóng tối của trí tuệ." - Carl Sagan</p>
         </div>
         <div class="book">
-            <img src="https://via.placeholder.com/400x300" alt="Book Image 4">
+            <img src="https://via.placeholder.com/400x300" alt="Book Image ![image](https://github.com/user-attachments/assets/f8b0eed1-f106-4e43-918f-9773b8548bba)
+">
             <p class="quote">"Người đọc sách sống một ngàn cuộc đời trước khi chết. Người không đọc sách chỉ sống một cuộc đời." - George R.R. Martin</p>
         </div>
         <!-- Thêm nhiều sách và câu nói khác tại đây -->
