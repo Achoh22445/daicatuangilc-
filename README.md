@@ -64,7 +64,10 @@
             <p class="quote">"Một cuốn sách hay là một người bạn tốt." - Voltaire</p>
         </div>
         <div class="book">
-            <img src="https://via.placeholder.com/400x300" alt="Book Image 2">
+            <img src="https://via.placeholder.com/400x300" alt="Book Image 2">git add index.html
+git commit -m "Update index.html with improved layout and images"
+git push origin main
+
             <p class="quote">"Đọc sách không chỉ là để biết, mà còn để suy nghĩ." - Francis Bacon</p>
         </div>
         <div class="book">
